@@ -1,2 +1,5 @@
-# webapi-aspnetcore.public
-Sample ASP.NET Core Web API
+# Sample ASP.NET Core Web API
+
+## Technologies overview
+
+## Architecture overview
